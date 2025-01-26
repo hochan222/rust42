@@ -1,2 +1,5 @@
 # rust42
-For rust practice
+
+## rust
+
+A language empowering everyone to build reliable and efficient software.

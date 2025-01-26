@@ -1,0 +1,9 @@
+[package]
+name = "hello_word"
+version = "0.1.0"
+edition = "2021"
+authors = ["hochan222 <hochan049@gmail.com>"]
+repository = "https://github.com/hochan222/rust42"
+rust-version = "1.84"
+
+[dependencies]
